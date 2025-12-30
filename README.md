@@ -88,13 +88,4 @@ This project highlights how SQL-driven analytics provide actionable insights for
 
 ---
 
-👩‍💻 Author
-Vanshika Yadav 
 
-Business and Data Analyst | SQL | Data Visualization | Entertainment Analytics
-
-⭐ If you found this project insightful, please consider giving it a star!
-
----
-
-Do you want me to also prepare this **same plain professional style** into a **PDF version for GitHub uploads**, so you don’t need to format in Canva/Word manually?
